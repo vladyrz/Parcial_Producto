@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "64211fd95a11e861385c1fd4"
+  },
+  "nombreProducto": "Samsung",
+  "categoria": "Tecnología",
+  "tipo": "Celular",
+  "cantidad": 10,
+  "estado": "Disponible",
+  "precio": "100"
+},{
+  "_id": 1,
+  "nombreProducto": "Iphone",
+  "categoria": "Tecnología",
+  "tipo": "Celular",
+  "cantidad": 70,
+  "estado": "Disponible",
+  "precio": 100
+}]
